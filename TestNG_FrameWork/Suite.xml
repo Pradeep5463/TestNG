@@ -1,0 +1,12 @@
+<suite name="Pradeep">
+<test name="Report">
+<classes>
+<class name="sep11.FirstTestNG">
+</class>
+<class name="sep11.SecondTestNG">
+</class>
+<class name="sep11.ThirdTestNG">
+</class>
+</classes>
+</test>
+</suite>
